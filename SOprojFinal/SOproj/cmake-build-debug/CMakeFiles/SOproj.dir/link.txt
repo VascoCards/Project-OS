@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/SOproj.dir/main2.c.o CMakeFiles/SOproj.dir/main1.c.o CMakeFiles/SOproj.dir/main3.c.o -o SOproj 

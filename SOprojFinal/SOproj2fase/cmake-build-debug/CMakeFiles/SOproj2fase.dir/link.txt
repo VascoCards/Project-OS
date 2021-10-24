@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/SOproj2fase.dir/main.c.o CMakeFiles/SOproj2fase.dir/main2.c.o -o SOproj2fase 
